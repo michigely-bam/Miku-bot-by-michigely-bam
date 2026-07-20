@@ -3,7 +3,7 @@ export default {
     nombre2: '`✧･ﾟ: _𝙼𝚒𝚔𝚞 𝙽𝚊𝚔𝚊𝚗𝚘_:･ﾟ✧`',
     prefix: '-',
     banner: 'https://files.catbox.moe/qx3kea.jpeg',
-    botowner: '51970334698', '51924090815',
+    botowner: ['51970334698', '51924090815']
     owner: ['51970334698', '51924090815'],
     version: '1.0.4',
     tipo: 'Principal',
